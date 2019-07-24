@@ -1,3 +1,4 @@
 # Data-Strucure-Codes
 
-1. Linked List codes in C++ 
+1. Singly Linked List codes in C++ 
+2. Doubly Linked List codes in C++ 
